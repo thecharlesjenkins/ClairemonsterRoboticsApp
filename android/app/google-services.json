@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1027686425489",
+    "firebase_url": "https://student-info-app.firebaseio.com",
+    "project_id": "student-info-app",
+    "storage_bucket": "student-info-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027686425489:android:6803831c8a48be7b",
+        "android_client_info": {
+          "package_name": "com.charlemagne.clairemonsterroboticsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027686425489-egs9i7ba3tg5mb6m8eoqivmucm7249u7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjbKOXqqbsdRGCAHhYbaeeJ5lWSNDjCTQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

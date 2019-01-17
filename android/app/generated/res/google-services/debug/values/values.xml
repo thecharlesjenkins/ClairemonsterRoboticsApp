@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1027686425489-egs9i7ba3tg5mb6m8eoqivmucm7249u7.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://student-info-app.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1027686425489</string>
+    <string name="google_api_key" translatable="false">AIzaSyCjbKOXqqbsdRGCAHhYbaeeJ5lWSNDjCTQ</string>
+    <string name="google_app_id" translatable="false">1:1027686425489:android:6803831c8a48be7b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCjbKOXqqbsdRGCAHhYbaeeJ5lWSNDjCTQ</string>
+    <string name="google_storage_bucket" translatable="false">student-info-app.appspot.com</string>
+    <string name="project_id" translatable="false">student-info-app</string>
+</resources>

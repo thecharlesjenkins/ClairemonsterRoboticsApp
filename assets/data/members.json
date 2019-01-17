@@ -1,0 +1,16 @@
+{
+  "Members": [
+    {
+      "name": "Charlie Jenkins",
+      "title": "Captain",
+      "idNum": "51558",
+      "gradYear": "2019"
+    },
+    {
+      "name": "Chris Middleton",
+      "title": "Programming and Build Member",
+      "idNum": "12345",
+      "gradYear": "2019"
+    }
+  ]
+}

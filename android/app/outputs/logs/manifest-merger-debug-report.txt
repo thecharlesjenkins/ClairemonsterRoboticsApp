@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:1:1-41:12
+MERGED from [:barcode_scan] C:\Programming\clairemonsterrobotics_app\build\barcode_scan\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [:path_provider] C:\Programming\clairemonsterrobotics_app\build\path_provider\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\zxing-1.9.8.aar\fa8e9ebf152c1adee11adfca6be3194d\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5327319ac87e256f88ce36a3559b94af\AndroidManifest.xml:17:1-22:12
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\8e4c70071e4bbcccf04c37da9237c289\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0879c0249be9b585db436790dc1279fe\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\88b3c530c9b88d16617e4d3e45c9baeb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\06257ddcc77e7ca364b3d11290d96e77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\8c0eb042f3aff6edeb3b6b7d4175db39\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5f0875931ed8dbb5fea63dfb84a3cf8f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\07607d9af5594b98ffa5693e1866ff94\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\958622c9c69f066fd2a30b5b649d1eba\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\666553817ea9f79d7f40b5e9dbaf5546\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4791247765f58b582c0ad8665889f2be\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\46cb7ce49ec99950883cfb8d9eca888f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\abf43bfa30238792b11b7af75b83aa2a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\796344c870319f18e6082df4c4e7792c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1bbe70bc243b15151cad71a759c852e5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aaf969f65aab9e9a0b5d0316260f5331\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b2c7c541ec79d3b38f8bc0a0c61b2aaf\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:1:1-41:12
+INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:1:1-41:12
+	package
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:2:5-55
+		INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:1:1-41:12
+		INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:9:22-62
+application
+ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:16:5-40:19
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\zxing-1.9.8.aar\fa8e9ebf152c1adee11adfca6be3194d\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\zxing-1.9.8.aar\fa8e9ebf152c1adee11adfca6be3194d\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\8e4c70071e4bbcccf04c37da9237c289\AndroidManifest.xml:11:5-20
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\8e4c70071e4bbcccf04c37da9237c289\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:18:9-47
+	android:icon
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:19:9-43
+	android:name
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:17:9-57
+activity#com.charlemagne.clairemonsterroboticsapp.MainActivity
+ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:20:9-38:20
+	android:launchMode
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:22:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:25:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:26:13-55
+	android:configChanges
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:24:13-116
+	android:theme
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:21:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:31:13-33:40
+	android:value
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:33:17-37
+	android:name
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:32:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:34:13-37:29
+action#android.intent.action.MAIN
+ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:35:17-68
+	android:name
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:35:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:36:27-74
+activity#com.apptreesoftware.barcodescan.BarcodeScannerActivity
+ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:39:9-90
+	android:name
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml:39:19-88
+uses-sdk
+INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+MERGED from [:barcode_scan] C:\Programming\clairemonsterrobotics_app\build\barcode_scan\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:barcode_scan] C:\Programming\clairemonsterrobotics_app\build\barcode_scan\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:path_provider] C:\Programming\clairemonsterrobotics_app\build\path_provider\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] C:\Programming\clairemonsterrobotics_app\build\path_provider\intermediates\manifests\full\debug\AndroidManifest.xml:5:5-44
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\zxing-1.9.8.aar\fa8e9ebf152c1adee11adfca6be3194d\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:zxing:1.9.8] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\zxing-1.9.8.aar\fa8e9ebf152c1adee11adfca6be3194d\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5327319ac87e256f88ce36a3559b94af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\5327319ac87e256f88ce36a3559b94af\AndroidManifest.xml:20:5-44
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\8e4c70071e4bbcccf04c37da9237c289\AndroidManifest.xml:7:5-9:41
+MERGED from [me.dm7.barcodescanner:core:1.9.8] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\core-1.9.8.aar\8e4c70071e4bbcccf04c37da9237c289\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0879c0249be9b585db436790dc1279fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\0879c0249be9b585db436790dc1279fe\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\88b3c530c9b88d16617e4d3e45c9baeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\88b3c530c9b88d16617e4d3e45c9baeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\06257ddcc77e7ca364b3d11290d96e77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\06257ddcc77e7ca364b3d11290d96e77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\8c0eb042f3aff6edeb3b6b7d4175db39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\8c0eb042f3aff6edeb3b6b7d4175db39\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5f0875931ed8dbb5fea63dfb84a3cf8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\5f0875931ed8dbb5fea63dfb84a3cf8f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\07607d9af5594b98ffa5693e1866ff94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\07607d9af5594b98ffa5693e1866ff94\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\958622c9c69f066fd2a30b5b649d1eba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\958622c9c69f066fd2a30b5b649d1eba\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\666553817ea9f79d7f40b5e9dbaf5546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\666553817ea9f79d7f40b5e9dbaf5546\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4791247765f58b582c0ad8665889f2be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4791247765f58b582c0ad8665889f2be\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\46cb7ce49ec99950883cfb8d9eca888f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\46cb7ce49ec99950883cfb8d9eca888f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\abf43bfa30238792b11b7af75b83aa2a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\abf43bfa30238792b11b7af75b83aa2a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\796344c870319f18e6082df4c4e7792c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\796344c870319f18e6082df4c4e7792c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1bbe70bc243b15151cad71a759c852e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\1bbe70bc243b15151cad71a759c852e5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aaf969f65aab9e9a0b5d0316260f5331\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\aaf969f65aab9e9a0b5d0316260f5331\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b2c7c541ec79d3b38f8bc0a0c61b2aaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Charlie\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\b2c7c541ec79d3b38f8bc0a0c61b2aaf\AndroidManifest.xml:20:5-44
+INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Programming\clairemonsterrobotics_app\android\app\src\main\AndroidManifest.xml
