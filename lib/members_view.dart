@@ -55,6 +55,7 @@ const _baseColors = <ColorSwatch>[
 
 class MembersView extends StatefulWidget {
   final GlobalKey backdropKey;
+
   const MembersView({this.backdropKey});
 
   @override

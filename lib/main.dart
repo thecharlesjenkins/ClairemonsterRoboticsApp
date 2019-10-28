@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 
 import 'members_view.dart';
-import 'navigation_route.dart';
 import 'splashscreen.dart';
-
 
 void main() => runApp(new MyApp());
 List<BottomNavigationBarItem> items = [
@@ -21,6 +19,7 @@ List<BottomNavigationBarItem> items = [
 
 class MyApp extends StatelessWidget {
   static GlobalKey backdropKey = GlobalKey(debugLabel: "backdrop");
+
   // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
@@ -28,7 +27,9 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Clairemonster',
       routes: <String, WidgetBuilder>{
-        '/MembersView': (BuildContext context) => new MembersView(backdropKey: backdropKey,),
+        '/MembersView': (BuildContext context) => new MembersView(
+              backdropKey: backdropKey,
+            ),
       },
       theme: ThemeData(
         fontFamily: 'Raleway',
@@ -41,7 +42,7 @@ class MyApp extends StatelessWidget {
         primaryColor: Colors.blue,
         accentColor: Colors.deepOrange,
       ),
-      home:  SplashScreen(),
+      home: SplashScreen(),
     );
   }
 }

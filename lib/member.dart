@@ -45,6 +45,7 @@ class Member {
         times = jsonMap.containsKey('times')
             ? json.decode(jsonMap['times'])
             : Map<String, Map<String, Time>>();
+
 //        assert(name != null),
 //        assert(title != null),
 //        assert(email != null),
@@ -69,7 +70,8 @@ class Member {
         'Email': email,
         'Graduation Year': "$gradYear",
         'Hours':
-            "${(totalTime.hours+totalTime.minutes/60).toStringAsFixed(2)}", //Get hours to two decimal places
+            "${(totalTime.hours + totalTime.minutes / 60).toStringAsFixed(2)}",
+        //Get hours to two decimal places
       };
 
   List<String> toList() => [name, title, id, email, "$gradYear"];
